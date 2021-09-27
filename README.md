@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**francisco-pedro/francisco-pedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Francisco Pedro 🙋‍♂️ 
 
-Here are some ideas to get you started:
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ofranciscopedro)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Francisco GitHub stats](https://github-readme-stats.vercel.app/api?username=francisco-pedro&show_icons=true&theme=dracula)
+
+
+## Tecnologias que eu uso no meu dia
+<div style="display: inline-block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+      <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+      <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+</div>
+
+<p>Estudando Web Design, estou livre para participar em projectos!</p>
+
+
